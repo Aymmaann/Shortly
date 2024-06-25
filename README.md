@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [GitHub repo](https://github.com/Aymmaann/Shortly)
-- [Live Site]()
+- [Live Site](https://shortly-fe.netlify.app/)
 
 ## My process
 
